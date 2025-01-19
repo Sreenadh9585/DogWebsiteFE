@@ -1,5 +1,7 @@
 # Dog Match App
 
+This project is publicly available at :https://radiant-palmier-1f818e.netlify.app/
+
 This is a web application where users can log in, search for dogs available for adoption, filter the search results, and find a potential match from their favorite dogs.
 
 ## Features
