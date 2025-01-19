@@ -22,7 +22,7 @@ This is a web application where users can log in, search for dogs available for 
 - **Backend**: Fetch API (RESTful calls to the provided API)
 - **State Management**: React Context, Redux, or similar (optional)
 - **Styling**: CSS, SCSS, or a component library like Material-UI or TailwindCSS
-- **Deployment**: Deployed using [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or any other hosting provider.
+- **Deployment**: Deployed using [Netlify](https://www.netlify.com/) or any other hosting provider.
 
 ## API Reference
 
